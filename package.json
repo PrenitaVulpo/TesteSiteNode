@@ -1,0 +1,21 @@
+{
+  "name": "portal-de-noticias",
+  "version": "1.0.0",
+  "description": "Primeiro projeto em Node",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teste",
+    "estudo",
+    "portal"
+  ],
+  "author": "Paulo G. D. Leite",
+  "license": "ISC",
+  "dependencies": {
+    "commonjs": "0.0.1",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
